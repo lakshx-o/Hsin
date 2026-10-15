@@ -1,4 +1,0 @@
-discord.py[voice]>=2.5
-davey
-gTTS
-edge-tts
